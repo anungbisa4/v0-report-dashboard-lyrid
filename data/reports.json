@@ -1,14 +1,14 @@
 {
   "grouped_by": null,
   "sub_grouped_by": null,
-  "total_count": 408,
+  "total_count": 428,
   "next_cursor": "1000:1:0",
   "prev_cursor": "1000:-1:1",
   "next_page_results": false,
   "prev_page_results": false,
-  "count": 408,
+  "count": 428,
   "total_pages": 1,
-  "total_results": 408,
+  "total_results": 428,
   "extra_stats": null,
   "results": [
     {
@@ -36,7 +36,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -684,7 +685,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": [
@@ -716,7 +718,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": [
@@ -810,7 +813,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -840,7 +844,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -2045,7 +2050,7 @@
     },
     {
       "id": "d9079734-731e-4c43-8ae0-0cdbaefeebb0",
-      "name": "Modify lyrid-sa.yaml then try to generate kubeconfig → access the cluster",
+      "name": "Modify lyrid-sa.yaml then try to generate kubeconfig \u2192 access the cluster",
       "state_id": "057da310-f9a2-42ef-8157-543884996b34",
       "sort_order": 1454465.0,
       "completed_at": "2025-09-17T01:53:41.523484Z",
@@ -2130,7 +2135,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -2220,7 +2226,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -2534,7 +2541,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -3127,7 +3135,7 @@
     },
     {
       "id": "3dc492c1-6763-4acb-af07-0b83eef744e4",
-      "name": "Test deploy app from LC with flag —operator",
+      "name": "Test deploy app from LC with flag \u2014operator",
       "state_id": "6e88980d-a89c-4abd-a884-7a877043a295",
       "sort_order": 1345535.0,
       "completed_at": null,
@@ -3858,7 +3866,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -3888,7 +3897,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -3950,7 +3960,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -4256,7 +4267,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [
         "3027d562-dd64-41b3-8b49-c7a30fccfa92"
@@ -5559,7 +5571,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -5619,14 +5632,15 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
     },
     {
       "id": "e0a9bf25-d971-4f7e-b2a5-6b2e29e0ff09",
-      "name": "Bug - ⁠lc ga bisa dipake Linux arm64?",
+      "name": "Bug - \u2060lc ga bisa dipake Linux arm64?",
       "state_id": "6e88980d-a89c-4abd-a884-7a877043a295",
       "sort_order": 985535.0,
       "completed_at": null,
@@ -5804,7 +5818,7 @@
     },
     {
       "id": "6865a104-8d79-4851-ba24-29724b54b11c",
-      "name": "PVC - ⁠Update app yg ada pvcnya, di UI keupdate tapi di kube nya ngga",
+      "name": "PVC - \u2060Update app yg ada pvcnya, di UI keupdate tapi di kube nya ngga",
       "state_id": "057da310-f9a2-42ef-8157-543884996b34",
       "sort_order": 1154465.0,
       "completed_at": "2025-07-15T00:17:57.134904Z",
@@ -6011,7 +6025,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -6679,7 +6694,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -6983,7 +6999,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -7013,7 +7030,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -7107,7 +7125,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [
         "f84fe8f9-0237-4af4-9b98-de249a433300"
@@ -7169,7 +7188,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -7199,7 +7219,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -7601,7 +7622,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -7754,7 +7776,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -7847,7 +7870,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -7877,7 +7901,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -8064,7 +8089,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -8185,7 +8211,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -8372,7 +8399,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -8522,7 +8550,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -8672,7 +8701,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -8702,7 +8732,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -8854,7 +8885,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -9268,7 +9300,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -9298,7 +9331,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -9328,7 +9362,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -9358,7 +9393,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -9639,7 +9675,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -10492,7 +10529,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": [
@@ -10650,7 +10688,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": [
@@ -11014,7 +11053,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [
         "6c0f1700-b744-46a5-ad51-bea6701cb29d",
@@ -11079,7 +11119,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -11259,7 +11300,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -11289,7 +11331,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -11319,7 +11362,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -11441,7 +11485,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -11601,7 +11646,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -11631,7 +11677,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [],
       "module_ids": []
@@ -11792,7 +11839,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [
         "aab0c4b0-b5ef-4e3d-85dc-19532d256c11"
@@ -11824,7 +11872,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [
         "6c0f1700-b744-46a5-ad51-bea6701cb29d",
@@ -11892,7 +11941,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [
         "6c0f1700-b744-46a5-ad51-bea6701cb29d"
@@ -12116,7 +12166,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [
         "aab0c4b0-b5ef-4e3d-85dc-19532d256c11"
@@ -12211,7 +12262,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [
         "6c0f1700-b744-46a5-ad51-bea6701cb29d",
@@ -12537,7 +12589,7 @@
     },
     {
       "id": "eeed9a31-a0e0-46ac-9f84-b9ae010cd34d",
-      "name": "Need API to restart nginx-controller - sometimes the LB didn’t update properly",
+      "name": "Need API to restart nginx-controller - sometimes the LB didn\u2019t update properly",
       "state_id": "8f2713d5-ed62-40a6-913a-50b8db6b1fa0",
       "sort_order": -131070.0,
       "completed_at": "2024-10-21T01:25:16.780652Z",
@@ -12590,7 +12642,8 @@
       "attachment_count": null,
       "sub_issues_count": null,
       "assignee_ids": [
-        "eb086854-76ee-4abd-b389-32b2cc2be605"
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
       ],
       "label_ids": [
         "6c0f1700-b744-46a5-ad51-bea6701cb29d",
@@ -12629,6 +12682,616 @@
         "6c0f1700-b744-46a5-ad51-bea6701cb29d",
         "f84fe8f9-0237-4af4-9b98-de249a433300"
       ],
+      "module_ids": []
+    },
+    {
+      "id": "6f829e38-5ed0-4b00-84f0-f36cb565e6c4",
+      "name": "Implement payment gateway integration for Payment V2",
+      "state_id": "057da310-f9a2-42ef-8157-543884996b34",
+      "sort_order": 1680000.0,
+      "completed_at": "2024-10-15T10:30:00.000000Z",
+      "estimate_point": null,
+      "priority": "high",
+      "start_date": "2024-10-05",
+      "target_date": null,
+      "sequence_id": 468,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-05T08:15:00.000000Z",
+      "updated_at": "2024-10-15T10:30:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "completed",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "f39e5750-33e6-4e4a-8a4b-3b962ab1d066",
+      "name": "Add payment method validation for Payment V2",
+      "state_id": "1dfae837-79a2-4570-9383-2009e6a5132d",
+      "sort_order": 1675000.0,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "medium",
+      "start_date": "2024-10-12",
+      "target_date": null,
+      "sequence_id": 469,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-12T09:20:00.000000Z",
+      "updated_at": "2024-10-28T14:45:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "started",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "1212d59c-24de-4096-af1d-78dfbb2b113d",
+      "name": "Create payment transaction history API for Payment V2",
+      "state_id": "943dd373-2b13-415e-a5e2-d5e62a7067e1",
+      "sort_order": 1670000.0,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "medium",
+      "start_date": null,
+      "target_date": null,
+      "sequence_id": 470,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-18T11:00:00.000000Z",
+      "updated_at": "2024-10-18T11:00:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "backlog",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "40412e37-b739-4f02-96b2-b812b4a08e2d",
+      "name": "Design payment refund workflow for Payment V2",
+      "state_id": "057da310-f9a2-42ef-8157-543884996b34",
+      "sort_order": 1665000.0,
+      "completed_at": "2024-10-22T16:20:00.000000Z",
+      "estimate_point": null,
+      "priority": "high",
+      "start_date": "2024-10-08",
+      "target_date": null,
+      "sequence_id": 471,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-08T07:30:00.000000Z",
+      "updated_at": "2024-10-22T16:20:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "completed",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "77ba38c3-24b3-4158-8843-f6db1042c7b2",
+      "name": "Implement payment webhook handler for Payment V2",
+      "state_id": "1dfae837-79a2-4570-9383-2009e6a5132d",
+      "sort_order": 1660000.0,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "high",
+      "start_date": "2024-10-25",
+      "target_date": null,
+      "sequence_id": 472,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-25T10:15:00.000000Z",
+      "updated_at": "2024-11-05T13:30:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "started",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "04bc70b2-1ce9-4401-bdd5-9821241afbae",
+      "name": "Add payment status tracking for Payment V2",
+      "state_id": "943dd373-2b13-415e-a5e2-d5e62a7067e1",
+      "sort_order": 1655000.0,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "medium",
+      "start_date": null,
+      "target_date": null,
+      "sequence_id": 473,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-03T14:00:00.000000Z",
+      "updated_at": "2024-10-03T14:00:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "backlog",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "2edc23ac-46b6-4be9-9f74-8448b1e1848e",
+      "name": "Create payment invoice generation for Payment V2",
+      "state_id": "057da310-f9a2-42ef-8157-543884996b34",
+      "sort_order": 1650000.0,
+      "completed_at": "2024-10-30T09:45:00.000000Z",
+      "estimate_point": null,
+      "priority": "high",
+      "start_date": "2024-10-14",
+      "target_date": null,
+      "sequence_id": 474,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-14T08:00:00.000000Z",
+      "updated_at": "2024-10-30T09:45:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "completed",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "a930d099-2e33-41f6-af07-b9d114fd4500",
+      "name": "Implement payment retry mechanism for Payment V2",
+      "state_id": "1dfae837-79a2-4570-9383-2009e6a5132d",
+      "sort_order": 1645000.0,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "medium",
+      "start_date": "2024-11-02",
+      "target_date": null,
+      "sequence_id": 475,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-11-02T11:30:00.000000Z",
+      "updated_at": "2024-11-08T15:20:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "started",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "8c817f85-410f-4fc8-b472-cd9976cc72c9",
+      "name": "Add payment currency conversion for Payment V2",
+      "state_id": "6e88980d-a89c-4abd-a884-7a877043a295",
+      "sort_order": 1640000.0,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "low",
+      "start_date": null,
+      "target_date": null,
+      "sequence_id": 476,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-07T13:45:00.000000Z",
+      "updated_at": "2024-10-07T13:45:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "unstarted",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "7d7f313d-707c-4806-826f-4eef4577832a",
+      "name": "Build payment notification system for Payment V2",
+      "state_id": "057da310-f9a2-42ef-8157-543884996b34",
+      "sort_order": 1635000.0,
+      "completed_at": "2024-11-01T12:00:00.000000Z",
+      "estimate_point": null,
+      "priority": "high",
+      "start_date": "2024-10-20",
+      "target_date": null,
+      "sequence_id": 477,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-20T09:00:00.000000Z",
+      "updated_at": "2024-11-01T12:00:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "completed",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "f61860e6-51fe-4212-bdcf-fd851f253d38",
+      "name": "Implement payment security encryption for Payment V2",
+      "state_id": "1dfae837-79a2-4570-9383-2009e6a5132d",
+      "sort_order": 1630000.0,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "high",
+      "start_date": "2024-10-28",
+      "target_date": null,
+      "sequence_id": 478,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-28T10:30:00.000000Z",
+      "updated_at": "2024-11-06T14:15:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "started",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "e10cc011-d7a5-4b0c-b559-6cbf795711d2",
+      "name": "Create payment analytics dashboard for Payment V2",
+      "state_id": "943dd373-2b13-415e-a5e2-d5e62a7067e1",
+      "sort_order": 1625000.0,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "medium",
+      "start_date": null,
+      "target_date": null,
+      "sequence_id": 479,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-11T15:20:00.000000Z",
+      "updated_at": "2024-10-11T15:20:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "backlog",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "7b8d6973-3640-4995-993a-3744575dbfb8",
+      "name": "Add payment subscription management for Payment V2",
+      "state_id": "057da310-f9a2-42ef-8157-543884996b34",
+      "sort_order": 1620000.0,
+      "completed_at": "2024-10-26T17:30:00.000000Z",
+      "estimate_point": null,
+      "priority": "high",
+      "start_date": "2024-10-09",
+      "target_date": null,
+      "sequence_id": 480,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-09T08:45:00.000000Z",
+      "updated_at": "2024-10-26T17:30:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "completed",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "1bcb8c61-1e16-47db-abe5-d465328ef5f9",
+      "name": "Implement payment dispute resolution for Payment V2",
+      "state_id": "1dfae837-79a2-4570-9383-2009e6a5132d",
+      "sort_order": 1615000.0,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "medium",
+      "start_date": "2024-11-04",
+      "target_date": null,
+      "sequence_id": 481,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-11-04T09:15:00.000000Z",
+      "updated_at": "2024-11-09T11:45:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "started",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "a7e59063-b586-4d5b-8f31-bedfc0c190fa",
+      "name": "Create payment reconciliation report for Payment V2",
+      "state_id": "6e88980d-a89c-4abd-a884-7a877043a295",
+      "sort_order": 1610000.0,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "low",
+      "start_date": null,
+      "target_date": null,
+      "sequence_id": 482,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-16T12:00:00.000000Z",
+      "updated_at": "2024-10-16T12:00:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "unstarted",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "81ba04de-615f-452d-b08d-9ea99ed45487",
+      "name": "Add payment fraud detection for Payment V2",
+      "state_id": "057da310-f9a2-42ef-8157-543884996b34",
+      "sort_order": 1605000.0,
+      "completed_at": "2024-11-03T14:20:00.000000Z",
+      "estimate_point": null,
+      "priority": "high",
+      "start_date": "2024-10-19",
+      "target_date": null,
+      "sequence_id": 483,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-19T07:30:00.000000Z",
+      "updated_at": "2024-11-03T14:20:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "completed",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "75815c2c-833f-4b33-95ad-edc53fcd5972",
+      "name": "Implement payment batch processing for Payment V2",
+      "state_id": "1dfae837-79a2-4570-9383-2009e6a5132d",
+      "sort_order": 1600000.0,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "medium",
+      "start_date": "2024-11-07",
+      "target_date": null,
+      "sequence_id": 484,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-11-07T10:00:00.000000Z",
+      "updated_at": "2024-11-10T16:30:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "started",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "ea6aa2c6-3728-41d5-be1e-9f588624cfa7",
+      "name": "Create payment API documentation for Payment V2",
+      "state_id": "943dd373-2b13-415e-a5e2-d5e62a7067e1",
+      "sort_order": 1595000.0,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "medium",
+      "start_date": null,
+      "target_date": null,
+      "sequence_id": 485,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-24T13:15:00.000000Z",
+      "updated_at": "2024-10-24T13:15:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "backlog",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "8065e8f3-bd1e-430d-9551-3d731157e0de",
+      "name": "Add payment multi-currency support for Payment V2",
+      "state_id": "057da310-f9a2-42ef-8157-543884996b34",
+      "sort_order": 1590000.0,
+      "completed_at": "2024-10-31T11:45:00.000000Z",
+      "estimate_point": null,
+      "priority": "high",
+      "start_date": "2024-10-13",
+      "target_date": null,
+      "sequence_id": 486,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-10-13T09:00:00.000000Z",
+      "updated_at": "2024-10-31T11:45:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "completed",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
+      ],
+      "label_ids": [],
+      "module_ids": []
+    },
+    {
+      "id": "6cc50079-ff1b-49a7-a20c-8293afc34c59",
+      "name": "Implement payment rate limiting for Payment V2",
+      "state_id": "1dfae837-79a2-4570-9383-2009e6a5132d",
+      "sort_order": 1585000.0,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "medium",
+      "start_date": "2024-11-10",
+      "target_date": null,
+      "sequence_id": 487,
+      "project_id": "37113ee2-9214-48d1-b702-440bc7ca6b8c",
+      "parent_id": null,
+      "created_at": "2024-11-10T08:30:00.000000Z",
+      "updated_at": "2024-11-10T14:20:00.000000Z",
+      "created_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "updated_by": "eb086854-76ee-4abd-b389-32b2cc2be605",
+      "is_draft": false,
+      "archived_at": null,
+      "state__group": "started",
+      "cycle_id": null,
+      "link_count": null,
+      "attachment_count": null,
+      "sub_issues_count": null,
+      "assignee_ids": [
+        "eb086854-76ee-4abd-b389-32b2cc2be605",
+        "68871987-92bb-4d17-b459-295afb5ac370"
+      ],
+      "label_ids": [],
       "module_ids": []
     }
   ]
