@@ -1,0 +1,11 @@
+name: report-dashboard
+description: App Description
+ignoreFiles: .git .next node_modules
+modules:
+  - name: v1
+    language: nodejs22.x
+    web: next.standalone
+    description: Module description
+    functions:
+      - name: entry
+        description: the entry point for the function
